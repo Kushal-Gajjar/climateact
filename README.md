@@ -171,6 +171,7 @@ You can also run the tracker directly in your terminal without the web interface
 python app.py
 ```
 
+
 This launches an interactive prompt to enter your daily activities and prints the full report to the console.
 
 ---
