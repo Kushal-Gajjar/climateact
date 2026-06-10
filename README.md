@@ -183,7 +183,7 @@ This launches an interactive prompt to enter your daily activities and prints th
 | 🟡 Moderate Impact | 5 – 15 kg | Room for improvement |
 | 🔴 High Impact | > 15 kg | Consider making changes |
 
-**For reference:** The global daily average is ~12 kg CO₂/person, and the Paris Agreement target works out to ~6.3 kg/day.
+**For reference:** The global daily average is ~12 kg CO₂/person, and the  Paris Agreement target works out to ~6.3 kg/day.
 
 ---
 
